@@ -89,6 +89,7 @@ button{
 }
 
 .img{
+    margin-right: 1em;
     float: left;
     margin-left: 25px;
 }
